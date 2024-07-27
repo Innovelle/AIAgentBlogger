@@ -18,7 +18,7 @@ This project automates the creation of blog posts using AI agents. The agents ar
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/innovelle-blog-automation.git
+   git clone https://https://github.com/Innovelle/AIAgentBlogger
    cd innovelle-blog-automation
 
 ## 2 Set Up Virtual Environment:
