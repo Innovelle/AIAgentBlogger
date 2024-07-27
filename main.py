@@ -4,8 +4,8 @@ from crewai import Agent, Task, Crew, Process
 from crewai_tools import SerperDevTool, WebsiteSearchTool
 
 # Set API keys for Serper and OpenAI
-os.environ["SERPER_API_KEY"] = "68a3deadf4f1602d5772e898b3ba7e980856c1c2"
-os.environ["OPENAI_API_KEY"] = "sk-proj-rzpJIe6baL9QgmxN7OMnT3BlbkFJMCjmiQhSmQvVdJfZQTSQ"
+os.environ["SERPER_API_KEY"] = "Your Key"
+os.environ["OPENAI_API_KEY"] = "Your Key"
 
 research_agent = Agent(
     role='Senior Research Analyst',
