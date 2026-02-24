@@ -40,3 +40,8 @@ OpenAI API Key: Set your OpenAI API key in the environment variables.
 
 Bash
 python main.py
+
+
+## Contact
+
+For any questions or support, please contact aiagent.mackenzie@gmail.com
