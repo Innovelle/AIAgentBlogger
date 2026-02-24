@@ -18,7 +18,7 @@ This project automates the creation of blog posts using AI agents. The agents ar
 
 **1. Clone the Repository:**
 ```bash
-git clone [https://github.com/YOUR_USERNAME/AIAgentBlogger](https://github.com/YOUR_USERNAME/AIAgentBlogger)
+git clone [https://github.com/aiagentmackenzie-lang/AIAgentBlogger](https://github.com/aiagentmackenzie-lang/AIAgentBlogger)
 cd blog-automation
 2. Set Up Virtual Environment:
 
@@ -28,9 +28,8 @@ source env/bin/activate # On Windows use env\Scripts\activate
 3. Install Dependencies:
 
 Bash
-# Note: Copied from original text, usually this would be pip install -r requirements.txt
-python -m venv env
-source env/bin/activate # On Windows use env\Scripts\activate
+# Ensure your virtual environment is active before installing
+pip install -r requirements.txt 
 4. Set API Keys:
 
 Serper API Key: Set your Serper API key in the environment variables.
